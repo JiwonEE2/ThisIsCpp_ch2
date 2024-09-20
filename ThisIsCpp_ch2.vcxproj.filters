@@ -33,5 +33,8 @@
     <ClCompile Include="006_NamespaceNested.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="007_NamespaceOver.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
